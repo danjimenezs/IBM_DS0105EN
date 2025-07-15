@@ -1,2 +1,2 @@
 # IBM_DS0105EN
-Final Assignmant
+Final Assignmant task for Module 6 of the Data Science Tools IBM course.
